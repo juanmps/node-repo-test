@@ -324,4 +324,6 @@ function validateAuthor(objectToValidate) {
   }
 }
 
+//all checked
+
 module.exports = { validateArticle, validateAuthor };
